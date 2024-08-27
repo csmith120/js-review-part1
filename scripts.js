@@ -28,4 +28,19 @@ if (numberLog % 2 == 0) {
 } else {
     console.log("odd")
 }
-*/
+
+
+//exercise 5
+
+for (let i = 1; i <= 10; i++) {
+    console.log(i)
+}
+
+//exercise 6
+
+let person = prompt("please enter your name")
+
+if(person != null) {
+    alert("hello " + person + "! you look quite swell today.")
+}
+    */
