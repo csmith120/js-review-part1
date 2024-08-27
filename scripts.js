@@ -12,12 +12,20 @@ const firstName = "christian"
 
 console.log(firstName)
 
-exercise 3
+//exercise 3
 const side1 = 10,
 side3 = 10,
 side2 = 30,
 side4 = 30;
 
-console.log ((side1 + side3) * (side2 + side4))*/
+console.log ((side1 + side3) * (side2 + side4))
 
 //exercise 4
+let numberLog = 1
+
+if (numberLog % 2 == 0) {
+    console.log('even')
+} else {
+    console.log("odd")
+}
+*/
