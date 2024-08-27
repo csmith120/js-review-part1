@@ -1,4 +1,4 @@
-/*const header = document.querySelector('h1');
+const header = document.querySelector('h1');
 //header.innerText = 'my new text!' 
 
 function changeText() {
@@ -43,4 +43,3 @@ let person = prompt("please enter your name")
 if(person != null) {
     alert("hello " + person + "! you look quite swell today.")
 }
-    */
